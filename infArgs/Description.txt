@@ -1,0 +1,4 @@
+Write a shell script that receives any number of command line arguments of the type usernames, files and directories and processes each argument such that:
+	Username: print the full name of the user. If logged in, print the number of running processes. If not logged in, print the start log-in time, IP and duration of the last log-in session.
+	File with read and write permissions: replace all positive numbers(integers and floats) with "ERROR"
+	Directory: print it`s permisisons.

@@ -1,0 +1,55 @@
+Requests and expected results:
+
+1.	Find all the usernames that logged in from "economica" on a Sunday
+giie1411
+piir1546
+vlir1593
+2.	Find all the users that logged into the system after 11PM
+piir1546
+srir1568
+tnir1590
+vlir1593
+3.	Display the full names of the users having a username that starts with "m" and with a user ID divisible by 7.
+Malinescu Amalia-Greta
+Martinescu Bogdan
+Malinescu Bianca-Liliana
+Malinescu Diana-Flavia
+Malinescu Elena-Ioana
+Martinescu Laurentiu
+4.	Display all the distinct TTYs used by user root.
+?
+pts/2
+tty1
+tty2
+tty3
+tty4
+tty5
+tty6
+5.	Find the full names of all the users whose username ends in 88
+Lobodescu Amalia-Monica
+Leopardescu Dan
+6.	Find all users whose user ID has three digits and starts with 23
+Malinescu Elena-Greta
+Malinescu Elena-Ioana
+Malinescu Elena-Liliana
+Malinescu Elena-Monica
+7.	Find all usersnames starting with "t" that logged on "pts/9"
+tmir1388
+toie1637
+toir1583
+8.	Find all the distinct usernames starting with "r" that are currently running programs, and display them duplicating every vowel.
+raarees
+roooot
+rpc
+rpcuuseer
+rtkiit
+9.	Display all the distinct lines left in /etc/passwd after deleting all letter and digits and spaces.
+::::-:////://
+:::::////://
+10.	Display all the distinct lines left in /etc/passwd after deleting all characters except "r".	
+r
+rr
+rrr
+rrrr
+11.	Calculate the average of the PIDs of the processes currently running in the system.	
+8373.95
